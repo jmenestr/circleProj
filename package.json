@@ -1,0 +1,8 @@
+{
+  "name": "circleProj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jmenestr/circleProj.git",
+  "author": "Justin Menestrina <jmenestr@gmail.com>",
+  "license": "MIT"
+}
